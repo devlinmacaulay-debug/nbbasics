@@ -9,4 +9,3 @@ Intro to notebook based computing for the aap course. Includes
 
 Editing the file to save as a version
 
-Jupyter notebooks are terrific
